@@ -40,7 +40,7 @@ const Footer1 = () => {
                     </div>
                 </div>
                 <div className="flex flex-col items-center mt-16">
-                    <p className="text-base leading-4 mt-2">© 2024 Nicks Collection. All rights reserved.</p>
+                    <p className="text-base leading-4 mt-2">© 2024 Valveta Collection. All rights reserved.</p>
                 </div>
             </div>
         </div>
